@@ -2,7 +2,8 @@
 # Check CPU usage
 def cpu_check(cpu):
     if cpu > 80:
-        print(f"Alert: CPU usage is high at {cpu}%")
+    print(f"Alert: CPU usage is critically high at {cpu}%") 
+    
       
     elif cpu > 60:
         print(f"Notice: CPU usage is moderately high at {cpu}%")
@@ -25,12 +26,13 @@ def memory_check(mem):
 # Calculate average of a list
 def get_avg(stuff):
     if len(stuff) == 0:
+        print("Warning: No data available for averaging.")
         return 0
     total = 0
     for thing in stuff:
         total += thing
     return total / len(stuff)
-
+    
 if __name__ == "__main__":
     # Test with dummy values
     cpu = 90
