@@ -2,7 +2,8 @@
 # Check CPU usage
 def cpu_check(cpu):
     if cpu > 80:
-        print(f"Alert: CPU usage is high at {cpu}%")
+    print(f"Alert: CPU usage is critically high at {cpu}%") 
+    
       
     elif cpu > 60:
         print(f"Notice: CPU usage is moderately high at {cpu}%")
