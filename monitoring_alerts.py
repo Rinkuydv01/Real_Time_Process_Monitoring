@@ -25,12 +25,13 @@ def memory_check(mem):
 # Calculate average of a list
 def get_avg(stuff):
     if len(stuff) == 0:
+        print("Warning: No data available for averaging.")
         return 0
     total = 0
     for thing in stuff:
         total += thing
     return total / len(stuff)
-
+    
 if __name__ == "__main__":
     # Test with dummy values
     cpu = 90
