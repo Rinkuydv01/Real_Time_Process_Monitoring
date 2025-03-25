@@ -65,11 +65,10 @@ The project is divided into three modules, each responsible for a specific funct
 
 ## Team Members and Contributions
 Our team consists of three members, each responsible for one module:
-- **Roll Number 12345:** Developed the Data Collection module (`data_collection.py`).
-- **Roll Number 67890:** Developed the Visualization module (`visualization.py`).
-- **Me (Roll Number 54321):** Developed the Monitoring & Alerts module (`monitoring_alerts.py`).
+- **Reg Number 12319490:** Developed the Data Collection module (`data_collection.py`).
+- **Reg Number 12312303:** Developed the Visualization module (`visualization.py`).
+- **Me (Reg Number 12314690):** Developed the Monitoring & Alerts module (`monitoring_alerts.py`).
 
-*Note:* Replace the roll numbers with your team’s actual roll numbers before submission.
 
 ## Technologies Used
 We used the following tools and technologies to build this project:
