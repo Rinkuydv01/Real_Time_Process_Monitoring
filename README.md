@@ -67,7 +67,7 @@ The project is divided into three modules, each responsible for a specific funct
 Our team consists of three members, each responsible for one module:
 - **Reg Number 12319490:** Developed the Data Collection module (`data_collection.py`).
 - **Reg Number 12312303:** Developed the Visualization module (`visualization.py`).
-- **Me (Reg Number 12314690):** Developed the Monitoring & Alerts module (`monitoring_alerts.py`).
+- **Me (Reg Number 12314690):** Developed the Monitoring & Alerts module and Integrated Module (`monitoring_alerts.py`,`Integrated_code.py`).
 
 
 ## Technologies Used
@@ -95,7 +95,7 @@ We followed a structured workflow to develop this project:
 - `monitoring-alerts` for Module 3 (my part).
 - Developed our modules independently, making multiple commits to show progress.
 3. **Revisions:**
-- Made at least 7 commits across the project, as required by the assignment.
+- Made at least 25+ commits across the project, as required by the assignment.
 - For my module (`monitoring_alerts.py`), I made changes like adjusting thresholds, adding alert history, and enhancing the test block.
 4. **Integration:**
 - Merged all branches into `main` using pull requests.
