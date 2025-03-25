@@ -33,6 +33,7 @@ def collect_data():
             # Return data for other modules to use
             yield sec, cpu, mem
 
+        
         except Exception as oops:
             print(f"Error happened: {oops}")
 
