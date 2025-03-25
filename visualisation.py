@@ -1,12 +1,12 @@
-#Module 2
+
 import matplotlib.pyplot as plt
 from IPython.display import clear_output
 
-# Draw the CPU and memory graphs
+# Draw the CPU and memory grap
 def draw_graphs(timestamps, cpu_data, memory_data):
     clear_output(wait=True)
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(12, 8))
-
+ # Plot CPU usage graph
     ax1.plot(timestamps, cpu_data, color='blue', label='CPU %')
     ax1.set_title('CPU Usage Right Now')
     ax1.set_xlabel('Time (sec)')
