@@ -23,7 +23,7 @@ The Real-Time Process Monitoring Dashboard is a Python-based application that pr
 ## How to Run It
 Follow these steps to set up and run the project on your system:
 1. **Install Python 3:**
-   - Download and install Python 3 from [python.org](https://www.python.org/downloads/) if you don’t already have it.
+   - Download and install Python 3 from [python.org](https://www.python.org/downloads/) 
    - Ensure Python is added to your system’s PATH.
 2. **Install Required Libraries:**
    - Open a terminal or command prompt.
