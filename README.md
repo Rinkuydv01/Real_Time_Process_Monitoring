@@ -118,11 +118,9 @@ We have some ideas to enhance the project in the future:
 - Add a user interface (e.g., using Tkinter) to make the dashboard more interactive.
 
 ## GitHub Contributions
-We made 7+ commits to this repository to track our progress. You can view the commit history by clicking the “Commits” tab on GitHub. Each team member contributed through their respective branches, and all changes were merged into `main`. Check the commit messages for details on our work!
+We made 25+ commits to this repository to track our progress. You can view the commit history by clicking the “Commits” tab on GitHub. Each team member contributed through their respective branches, and all changes were merged into `main`. Check the commit messages for details on our work!
 
 ---
-
-**Submitted by:** Team [Your Team Name]  
 **Course:** CSE316  
 **Institution:** Lovely Professional University  
 **Date:** March 25, 2025
