@@ -8,7 +8,7 @@ This is our CSE316 project at Lovely Professional University. It’s a tool that
 - Alerts if CPU > 80% or memory > 80%, plus shows averages.
 
 ## How to Run It
-1. Get Python 3 (from python.org if you don’t have it).
+1. Get Python 3.
 2. Install stuff:
 
 3. Download the files from this repo.
