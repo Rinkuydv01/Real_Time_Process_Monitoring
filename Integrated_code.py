@@ -1,4 +1,4 @@
-# !pip install psutil matplotlib pandas
+!pip install psutil matplotlib pandas
 
 import psutil
 import time
