@@ -77,7 +77,7 @@ def draw_graphs():
 def cpu_check(cpu):
     if cpu > 85:
         cpu_alerts.append(cpu)
-        print(f"WHOA CPU IS HIGH: {cpu}%")
+        print(f"CPU IS HIGH: {cpu}%")
     elif cpu > 60:
         print(f"CPU’s kinda busy: {cpu}%")
     else:
@@ -87,7 +87,7 @@ def cpu_check(cpu):
 def memory_check(mem):
     if mem > 80:
         memory_alerts.append(mem)
-        print(f"OH NO MEMORY’S FULL: {mem}%")
+        print(f"MEMORY’S FULL: {mem}%")
     elif mem > 50:
         print(f"Memory’s getting up there: {mem}%")
     else:
