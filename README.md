@@ -13,9 +13,9 @@ The Real-Time Process Monitoring Dashboard is a Python-based application that pr
 - Collects CPU and memory usage data every second for 60 seconds (configurable duration).
 - Visualizes the data in real-time using line graphs (CPU usage in blue, memory usage in red).
 - Monitors usage levels and issues alerts:
-  - CPU > 80%: “Alert: CPU usage is critically high.”
-  - CPU > 55%: “Notice: CPU usage is moderately high.”
-  - Memory > 75%: “Alert: Memory usage is critically high.”
+  - CPU > 85%: “Alert: CPU usage is critically high.”
+  - CPU > 50%: “Notice: CPU usage is moderately high.”
+  - Memory > 80%: “Alert: Memory usage is critically high.”
   - Memory > 50%: “Notice: Memory usage is moderately high.”
 - Calculates and displays average, maximum, and minimum CPU and memory usage.
 - Logs all alerts and provides a summary at the end of the monitoring session.
